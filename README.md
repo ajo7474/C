@@ -1,5 +1,4 @@
 C
 =
-Backdoor cliente e servidor
-socket com C
+simple code 
 
